@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RepoListChallenge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">Tamam</string>
+    <string name="submit_text">Submit</string>
+    <string name="user_text">Kullanıcı Adı</string>
+    <string name="stars">Stars: %s</string>
+    <string name="open_issue">Open Issues: %s</string>
+</resources>
