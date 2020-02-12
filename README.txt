@@ -1,11 +1,8 @@
-Kullanılan Teknolojiler
+KullanÄ±lan Teknolojiler
 
--- Geliştirme dili olarak Kotlin kullanılmıştır.
--- Mimarı olarak Mvvm ve LiveData kullanılmıştır.
--- Fragment yönetimi için Navigation Architecture Component kullanılmıştır.
--- AndroidX support paketi Kullanılmıştır.
--- Network olarak Retrofit kütüphanesi kullanılmıştır.
--- Image için Picasso kütüphanesi kullanılmıştır.
-
-Favori listesine ekleme işlemini de yapıcaktım fakat iş yoğunluğundan yeterli vakit ayıramadım.
-İlginiz için teşekkürler :)
+-- GeliÅŸtirme dili olarak Kotlin kullanÄ±lmÄ±ÅŸtÄ±r.
+-- MimarÄ± olarak Mvvm ve LiveData kullanÄ±lmÄ±ÅŸtÄ±r.
+-- Fragment yÃ¶netimi iÃ§in Navigation Architecture Component kullanÄ±lmÄ±ÅŸtÄ±r.
+-- AndroidX support paketi KullanÄ±lmÄ±ÅŸtÄ±r.
+-- Network olarak Retrofit kÃ¼tÃ¼phanesi kullanÄ±lmÄ±ÅŸtÄ±r.
+-- Image iÃ§in Picasso kÃ¼tÃ¼phanesi kullanÄ±lmÄ±ÅŸtÄ±r.
